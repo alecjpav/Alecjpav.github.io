@@ -1,1 +1,3 @@
-This is my bio. See #alecj.pav.github.io.
++# alecjpav.github.io
+
+This is my bio.
