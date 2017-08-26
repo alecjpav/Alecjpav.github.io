@@ -1,3 +1,3 @@
-+# alecjpav.github.io
+# alecjpav.github.io
 
 This is my bio.
